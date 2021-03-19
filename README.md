@@ -5,6 +5,9 @@ requirements:
 
 Python2
 
+for Ubuntu 20.04
+wget https://bootstrap.pypa.io/pip/2.7/get-pip.py
+sudo python2 get-pip.py
 pip install colorama
 
 https://youtu.be/LIyssI5ZUDk
