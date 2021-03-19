@@ -9,7 +9,7 @@ pip install colorama
 
 https://youtu.be/LIyssI5ZUDk
 
-https://2xoin.org/getRSZfromRawTX.html
+https://2xoin.com/getRSZfromRawTX/
 
 Bitcoin Key Compression Tool
 https://iancoleman.io/bitcoin-key-compression
