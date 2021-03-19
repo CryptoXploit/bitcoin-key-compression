@@ -3,7 +3,9 @@ Get R, S and Z values from Raw Bitcoin Transaction
 
 requirements:
 
-Python2.7,colorama
+Python2.7
+
+modules-colorama,bitcoin,ecdsa,utils,base58
 
 for Ubuntu 20.04 wget https://bootstrap.pypa.io/pip/2.7/get-pip.py 
 
